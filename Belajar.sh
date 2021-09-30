@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 echo "Belajar pemerograman bash di termux"
 echo "[1] Install wget"
